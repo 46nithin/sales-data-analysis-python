@@ -73,4 +73,4 @@ It showcases strong skills in:
 ## 🧑‍🎓 Author
 NITHIN.Y 
 Aspiring Data Analyst | Python & SQL Enthusiast  
-[LinkedIn Profile](www.linkedin.com/in/46nithin)
+www.linkedin.com/in/46nithin
