@@ -65,7 +65,7 @@ It showcases strong skills in:
 | File | Description |
 |------|--------------|
 | `sales Data.ipynb` | Jupyter Notebook with complete code |
-| `sales data` | Dataset used for analysis |
+| `sales data.csv` | Dataset used for analysis |
 | `README.md` | Project documentation |
 
 ---
